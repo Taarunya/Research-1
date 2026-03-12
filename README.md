@@ -125,10 +125,6 @@ Multi-Sensor Satellite Data Fusion for Land Cover Mapping. Department of Compute
 Science, Manipal University Jaipur.
 ```
 
-📬 Contact
-Pranay Mahajan — pranaymahajan3106@gmail.com Taarunya Aggarwal — taru.agg05@gmail.com
----
-
 ## 📬 Contact
 
-**Taarunya Aggarwal** — taru.agg05@gmail.com
+**Taarunya Aggarwal** — taru.agg05@gmail.com  Pranay Mahajan — pranaymahajan3106@gmail.com
